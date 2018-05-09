@@ -47,3 +47,15 @@
 * Identifying components with unsafe lifecycles
 * Warning about legacy string ref API usage
 * Detecting unexpected side effects
+
+---
+
+## INSTALL
+
+`git clone https://github.com/gvarandas/react-16-3-examples.git`
+
+`cd react-16-3`
+
+`yarn`
+
+`yarn start`
