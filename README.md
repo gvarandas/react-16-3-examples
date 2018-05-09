@@ -50,7 +50,7 @@
 
 ---
 
-## INSTALL
+## Install Instructions
 
 `git clone https://github.com/gvarandas/react-16-3-examples.git`
 
