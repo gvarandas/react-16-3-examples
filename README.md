@@ -7,9 +7,7 @@
 
 > Implementação de exemplo das features introduzidas no release **16.3.0** do React.
 >
-> Este repositório tem como objetivo apresentar as features introduzidas no release **16.3.0** do React.
-
-A apresentação deste conteúdo foi originalmente produto da primeira edição do **React Brasília**.
+> A apresentação deste conteúdo foi originalmente produto da primeira edição do **React Brasília**.
 
 ---
 
