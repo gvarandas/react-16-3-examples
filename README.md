@@ -1,10 +1,27 @@
 # REACT 16.3 EXAMPLES #
 
-Esse repositório tem como objetivo apresentar as features introduzidas no release **16.3.0** do React.
 
-## FEATURES
+[![GitHub issue author](https://img.shields.io/badge/author-gvarandas-brightgreen.svg)](https://github.com/gvarandas)
 
-### Context API
+`português`
+
+> Implementação de exemplo das features introduzidas no release **16.3.0** do React.
+>
+> Este repositório tem como objetivo apresentar as features introduzidas no release **16.3.0** do React.
+
+A apresentação deste conteúdo foi originalmente produto da primeira edição do **React Brasília**.
+
+---
+
+`english`
+
+> Example implementation of the features introduced in the **16.3.0** release of React.
+>
+> This content presentation was originally a product of the first edition of **React Brasília**.
+
+---
+
+## Context API
 
 * Context
 * Provider
@@ -12,13 +29,12 @@ Esse repositório tem como objetivo apresentar as features introduzidas no relea
 * Children as function
 * Render Prop pattern
 
-### Refs
+## Refs
 
 * createRef API
 * forwardRef API
 
-
-### Component Lifecycle Changes
+## Component Lifecycle Changes
 
 * Deprecation
   * ComponentWillMount
@@ -28,7 +44,7 @@ Esse repositório tem como objetivo apresentar as features introduzidas no relea
   * getDerivedStateFromProps
   * getSnapshotBeforeUpdate
 
-### StrictMode Component
+## StrictMode Component
 
 * Identifying components with unsafe lifecycles
 * Warning about legacy string ref API usage
