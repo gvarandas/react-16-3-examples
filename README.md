@@ -8,6 +8,8 @@
 > Implementação de exemplo das features introduzidas no release **16.3.0** do React.
 >
 > A apresentação deste conteúdo foi originalmente produto da primeira edição do **React Brasília**.
+>
+> [**Link da Apresentação**](https://drive.google.com/open?id=1yzjmMIqXIgqpBY1ci-Ts2TUx3UdaQMgy)
 
 ---
 
@@ -16,6 +18,8 @@
 > Example implementation of the features introduced in the **16.3.0** release of React.
 >
 > This content presentation was originally a product of the first edition of **React Brasília**.
+>
+> [**Presentation Link**](https://drive.google.com/open?id=1yzjmMIqXIgqpBY1ci-Ts2TUx3UdaQMgy)
 
 ---
 
